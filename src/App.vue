@@ -109,36 +109,36 @@ export default {
           "mech": "Type - Worst Beat"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "USURPER",
+          "alias": "Isa Bloodworth",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "frame": "Chomolungma",
+            "mech": "Lo, There was a Pale Rider ; I SHALL NOT DRINK YOUR POISON"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
+          "callsign": "Crypto",
+          "alias": "Devin Crabtree",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "frame": "Chomolungma",
+          "mech": "Pale, Stupid and Dumb"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
+          "callsign": "Dreamer",
+          "alias": "MFendrel Lovemore",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "For Demonstration Purposes Only"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
+          "callsign": "Phantasm",
+          "alias": 'Leyna Charlotte Sophie Jordan Erxleben VII',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "Graveyard Shift"
         },
       ],
       "header": {
