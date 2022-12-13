@@ -98,26 +98,26 @@ export default {
           "name": "Bug-Hunt",
           "status": "start"
           },
-         {
-          "slug": "002",
-          "name": "Vigilant Gaze",
-          "status": "start"
-          },
-         {
-          "slug": "003",
-          "name": "Floodgate",
-          "status": "start"
-        },
-          {
-          "slug": "004-B",
-          "name": "Rallying Cry",
-          "status": "start"
-          },
-           {
-          "slug": "005",
-          "name": "Split-Knuckle Haymaker",
-          "status": "start"
-        },
+        // {
+        //  "slug": "002",
+        //  "name": "Vigilant Gaze",
+        //  "status": "start"
+        //  },
+        // {
+        //  "slug": "003",
+        //  "name": "Floodgate",
+        //  "status": "start"
+        //},
+        //  {
+        //  "slug": "004-B",
+        //  "name": "Rallying Cry",
+        //  "status": "start"
+        //  },
+        //   {
+        //  "slug": "005",
+        //  "name": "Split-Knuckle Haymaker",
+        //  "status": "start"
+        //},
       ],
         "pilots": [
         {
