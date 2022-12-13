@@ -97,6 +97,26 @@ export default {
           "slug": "001",
           "name": "Bug-Hunt",
           "status": "start"
+          },
+         {
+          "slug": "002",
+          "name": "Vigilant Gaze",
+          "status": "start"
+          },
+         {
+          "slug": "003",
+          "name": "Floodgate",
+          "status": "start"
+        },
+          {
+          "slug": "004-B",
+          "name": "Rallying Cry",
+          "status": "start"
+          },
+           {
+          "slug": "005",
+          "name": "Split-Knuckle Haymaker",
+          "status": "start"
         },
       ],
         "pilots": [
@@ -125,6 +145,14 @@ export default {
           "mech": "Pale, Stupid and Dumb"
         },
 
+        {
+          "callsign": "Phantasm",
+          "alias": 'Leyna Charlotte Sophie Jordan Erxleben VII',
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Graveyard Shift"
+        },
         {
           "callsign": "Phantasm",
           "alias": 'Leyna Charlotte Sophie Jordan Erxleben VII',
@@ -204,8 +232,8 @@ export default {
 
 <style lang="scss">
 #app {
-  width: 1902px;
-  height: 910px;
+  width: 100%;
+  height: 100%;
   overflow: hidden;
 }
 </style>
