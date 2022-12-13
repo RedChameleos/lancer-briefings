@@ -99,7 +99,15 @@ export default {
           "status": "start"
         },
       ],
-      "pilots": [
+        "pilots": [
+        {
+            "callsign": "Dreamer",
+            "alias": "Fendrel Lovemore",
+            "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+            "corpro": "GMS",
+            "frame": "Everest",
+            "mech": "For Demonstration Purposes Only"
+        },
         {
           "callsign": "USURPER",
           "alias": "Isa Bloodworth",
@@ -116,14 +124,7 @@ export default {
           "frame": "Chomolungma",
           "mech": "Pale, Stupid and Dumb"
         },
-        {
-          "callsign": "Dreamer",
-          "alias": "Fendrel Lovemore",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "For Demonstration Purposes Only"
-        },
+
         {
           "callsign": "Phantasm",
           "alias": 'Leyna Charlotte Sophie Jordan Erxleben VII',
@@ -140,7 +141,7 @@ export default {
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "Evergreen",
-        "headerSubtitle": "Mercenary Company",
+        "headerSubtitle": "Response Team",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
