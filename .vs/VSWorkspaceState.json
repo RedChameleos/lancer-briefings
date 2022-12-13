@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\events",
+    "\\public\\icons",
+    "\\public\\mechs",
     "\\public\\missions",
     "\\public\\pilots",
     "\\src",
     "\\src\\assets",
     "\\src\\assets\\styles",
-    "\\src\\components",
-    "\\src\\components\\layout"
+    "\\src\\components"
   ],
+  "SelectedNode": "\\public\\mechs",
   "PreviewInSolutionExplorer": false
 }
