@@ -2,7 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\icons",
+    "\\public\\events",
     "\\public\\mechs",
     "\\public\\missions",
     "\\public\\pilots",
@@ -11,6 +11,6 @@
     "\\src\\assets\\styles",
     "\\src\\components"
   ],
-  "SelectedNode": "\\public\\mechs",
+  "SelectedNode": "\\public\\missions\\004-B.md",
   "PreviewInSolutionExplorer": false
 }
