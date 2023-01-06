@@ -178,8 +178,8 @@ export default {
         "ring": "Atlas-Line",
         "headerTitle": "Evergreen",
         "headerSubtitle": "Response Team",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Contract Operation Group",
+        "subheaderSubtitle": "November-Uniform-Tango",
       },
       "options":{
         "eventsMarkdownPerMission": true
