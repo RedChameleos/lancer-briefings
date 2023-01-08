@@ -66,7 +66,7 @@
     </defs>
   </svg>
   <audio autoplay>
-    <source src="/startup.ogg" type="audio/ogg" />
+    <source src="startup.ogg" type="audio/ogg" />
   </audio>
   <Footer/>
 </template>
@@ -240,8 +240,8 @@ export default {
 
 <style lang="scss">
 #app {
-  width: 100%;
-  height: 100%;
+  width: 110%;
+  height: 110%;
   overflow: hidden;
 }
 </style>
