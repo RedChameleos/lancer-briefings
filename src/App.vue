@@ -236,12 +236,3 @@ export default {
 
 }
 </script>
-
-
-<style lang="scss">
-#app {
-  width: 50%;
-  height: 50%;
-  overflow: hidden;
-}
-</style>
