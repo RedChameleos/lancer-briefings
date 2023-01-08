@@ -3,13 +3,13 @@
     "",
     "\\public",
     "\\public\\events",
-    "\\public\\mechs",
-    "\\public\\missions",
-    "\\public\\pilots",
+    "\\public\\icons",
     "\\src",
     "\\src\\assets",
     "\\src\\assets\\styles",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\components\\layout"
   ],
+  "SelectedNode": "\\src\\components\\layout\\Header.vue",
   "PreviewInSolutionExplorer": false
 }

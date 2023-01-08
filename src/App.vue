@@ -128,14 +128,14 @@ export default {
             "frame": "Everest",
             "mech": "For Demonstration Purposes Only"
         },
-        {
-          "callsign": "USURPER",
-          "alias": "Isa Bloodworth",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-            "mech": "Lo, There was a Pale Rider ; I SHALL NOT DRINK YOUR POISON"
-        },
+        //{
+        //  "callsign": "USURPER",
+        //  "alias": "Isa Bloodworth",
+        //  "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+        //  "corpro": "GMS",
+        //  "frame": "Chomolungma",
+        //    "mech": "Lo, There was a Pale Rider ; I SHALL NOT DRINK YOUR POISON"
+        //},
         {
           "callsign": "Crypto",
           "alias": "Devin Crabtree",
@@ -161,14 +161,14 @@ export default {
           "frame": "Everest",
           "mech": "Telic"
         },
-        {
-          "callsign": "Connor",
-          "alias": 'Nconnor',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Connor"
-        },
+        //{
+        //  "callsign": "Connor",
+        //  "alias": 'Nconnor',
+        //  "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+        //  "corpro": "GMS",
+        //  "frame": "Everest",
+        //  "mech": "Connor"
+        //},
       ],
       "header": {
         "planet": "Hercynia",
