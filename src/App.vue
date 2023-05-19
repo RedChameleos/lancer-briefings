@@ -98,12 +98,12 @@ export default {
           "name": "Bug-Hunt",
           "status": "start"
           },
-        // {
-        //  "slug": "002",
-        //  "name": "Vigilant Gaze",
-        //  "status": "start"
-        //  },
-        // {
+         {
+          "slug": "002",
+          "name": "Vigilant Gaze",
+          "status": "start"
+          },
+         {
         //  "slug": "003",
         //  "name": "Floodgate",
         //  "status": "start"
@@ -121,12 +121,12 @@ export default {
       ],
         "pilots": [
         {
-            "callsign": "Dreamer",
-            "alias": "Fendrel Lovemore",
+            "callsign": "SUNFIRE",
+            "alias": "Sunny Jones",
             "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
             "corpro": "GMS",
-            "frame": "Everest",
-            "mech": "For Demonstration Purposes Only"
+            "frame": "Everest", 
+            "mech": "Fireworks Machine"
         },
         //{
         //  "callsign": "USURPER",
@@ -161,14 +161,14 @@ export default {
           "frame": "Everest",
           "mech": "Telic"
         },
-        //{
-        //  "callsign": "Connor",
-        //  "alias": 'Nconnor',
-        //  "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-        //  "corpro": "GMS",
-        //  "frame": "Everest",
-        //  "mech": "Connor"
-        //},
+        {
+          "callsign": "AHAB",
+          "alias": 'Caridad Varabun',
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Uncomfortably Vague"
+        },
       ],
       "header": {
         "planet": "Hercynia",
