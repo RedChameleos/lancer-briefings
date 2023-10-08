@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\events",
     "\\public\\icons",
+    "\\public\\mechs",
+    "\\public\\pilots",
     "\\src",
     "\\src\\assets",
     "\\src\\assets\\styles",
     "\\src\\components",
     "\\src\\components\\layout"
   ],
+  "SelectedNode": "\\public\\pilots\\granby.md",
   "PreviewInSolutionExplorer": false
 }
