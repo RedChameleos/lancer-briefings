@@ -103,7 +103,7 @@ export default {
           "name": "Vigilant Gaze",
           "status": "start"
           },
-         {
+         //{
         //  "slug": "003",
         //  "name": "Floodgate",
         //  "status": "start"
