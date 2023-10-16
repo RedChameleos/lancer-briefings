@@ -1,6 +1,5 @@
 {
   "ExpandedNodes": [
-    "",
     "\\public",
     "\\public\\icons",
     "\\public\\mechs",
@@ -11,6 +10,5 @@
     "\\src\\components",
     "\\src\\components\\layout"
   ],
-  "SelectedNode": "\\public\\pilots\\granby.md",
   "PreviewInSolutionExplorer": false
 }
