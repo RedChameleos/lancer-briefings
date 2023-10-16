@@ -34,14 +34,9 @@
     </script>-->
     <script>
 
-    // Create a specific element to use as the background
-            var backgroundElement = document.createElement("div");
-            backgroundElement.id = "background";
-        document.body.appendChild(backgroundElement);
-
 // Initialize VANTA.GLOBE using the specific element as the background
         VANTA.GLOBE({
-            el: "background",
+            el: "body",
             mouseControls: true,
             touchControls: true,
             gyroControls: false,
