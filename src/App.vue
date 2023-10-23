@@ -118,11 +118,11 @@ export default {
         //  "name": "Split-Knuckle Haymaker",
         //  "status": "start"
         //},
-        //   {
-        //  "slug": "Other",
-        //  "name": "Other Objectives",
-        //  "status": "start"
-        //},
+           {
+          "slug": "Other",
+          "name": "Other Objectives",
+          "status": "start"
+        },
       ],
         "pilots": [
         {
