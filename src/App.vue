@@ -96,12 +96,12 @@ export default {
         {
           "slug": "001",
           "name": "Bug-Hunt",
-          "status": "start"
+          "status": "success"
           },
          {
           "slug": "002",
           "name": "Vigilant Gaze",
-          "status": "start"
+             "status": "success"
           },
          //{
         //  "slug": "003",
@@ -116,6 +116,11 @@ export default {
         //   {
         //  "slug": "005",
         //  "name": "Split-Knuckle Haymaker",
+        //  "status": "start"
+        //},
+        //   {
+        //  "slug": "Other",
+        //  "name": "Other Objectives",
         //  "status": "start"
         //},
       ],
