@@ -96,13 +96,13 @@ export default {
         {
           "slug": "001",
           "name": "Bug-Hunt",
-          "status": "success"
+          "status": "start"
           },
-         {
-          "slug": "002",
-          "name": "Vigilant Gaze",
-             "status": "success"
-          },
+         //{
+         // "slug": "002",
+         // "name": "Vigilant Gaze",
+         //    "status": "success"
+         // },
          //{
         //  "slug": "003",
         //  "name": "Floodgate",
@@ -118,62 +118,98 @@ export default {
         //  "name": "Split-Knuckle Haymaker",
         //  "status": "start"
         //},
-           {
-          "slug": "Other",
-          "name": "Other Objectives",
-          "status": "start"
-        },
+        //   {
+        //  "slug": "Other",
+        //  "name": "Other Objectives",
+        //  "status": "start"
+        //},
       ],
         "pilots": [
-        {
-            "callsign": "Sunfire",
-            "alias": "Sunny Jones",
-            "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-            "corpro": "GMS",
-            "frame": "Everest", 
-            "mech": "Fireworks Machine"
-        },
         //{
-        //  "callsign": "USURPER",
-        //  "alias": "Isa Bloodworth",
-        //  "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+        //    "callsign": "Sunfire",
+        //    "alias": "Sunny Jones",
+        //    "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+        //    "corpro": "GMS",
+        //    "frame": "Everest", 
+        //    "mech": "Fireworks Machine"
+        //},
+             {
+                "callsign": "CONDOR",
+                "alias": "Shen Balan",
+                 "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+                 "corpro": "GMS",
+                 "frame": "Chomolungma",
+                 "mech": "Empty Threat"
+            },
+
+            {
+                "callsign": "BUTCHER'S BLOCK",
+                "alias": "Ellis Nealey",
+                "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+                "corpro": "GMS",
+                "frame": "Sagarmatha",
+                "mech": "Cleaver"
+            },
+
+            {
+                "callsign": "BRICK",
+                "alias": "Katherine Raneses",
+                "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+                "corpro": "GMS",
+                "frame": "Everest",
+                "mech": "Agent of Entropy"
+            },
+
+            {
+                "callsign": "MOTHMAN",
+                "alias": "Marlitt Armbrester-Honerkamp",
+                "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+                "corpro": "GMS",
+                "frame": "Everest",
+                "mech": "You're Getting Unfairly Accustomed to This"
+            },
+
+            {
+                "callsign": "SYBIL",
+                "alias": "Freddie",
+                "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+                "corpro": "GMS",
+                "frame": "Everest",
+                "mech": "È-Guî"
+            },
+        //{
+        //  "callsign": "Crypto",
+        //  "alias": "Devin Crabtree",
+        //  "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
         //  "corpro": "GMS",
         //  "frame": "Chomolungma",
-        //    "mech": "Lo, There was a Pale Rider ; I SHALL NOT DRINK YOUR POISON"
+        //  "mech": "Pale, Stupid and Dumb"
         //},
-        {
-          "callsign": "Crypto",
-          "alias": "Devin Crabtree",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "Pale, Stupid and Dumb"
-        },
 
-        {
-          "callsign": "Phantasm",
-          "alias": 'Leyna Charlotte Sophie Jordan Erxleben VII',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Graveyard Shift"
-        },
-        {
-          "callsign": "Granby",
-          "alias": 'Nathan Clarke',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Telic"
-        },
-        {
-          "callsign": "Ahab",
-          "alias": 'Caridad Varabun',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Uncomfortably Vague"
-        },
+        //{
+        //  "callsign": "Phantasm",
+        //  "alias": 'Leyna Charlotte Sophie Jordan Erxleben VII',
+        //  "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+        //  "corpro": "GMS",
+        //  "frame": "Everest",
+        //  "mech": "Graveyard Shift"
+        //},
+        //{
+        //  "callsign": "Granby",
+        //  "alias": 'Nathan Clarke',
+        //  "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+        //  "corpro": "GMS",
+        //  "frame": "Everest",
+        //  "mech": "Telic"
+        //},
+        //{
+        //  "callsign": "Ahab",
+        //  "alias": 'Caridad Varabun',
+        //  "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+        //  "corpro": "GMS",
+        //  "frame": "Everest",
+        //  "mech": "Uncomfortably Vague"
+        //},
       ],
       "header": {
         "planet": "Hercynia",
