@@ -96,18 +96,18 @@ export default {
         {
           "slug": "001",
           "name": "Bug-Hunt",
-          "status": "start"
+          "status": "success"
           },
          {
           "slug": "002",
           "name": "Vigilant Gaze",
              "status": "success"
           },
-/*         {*/
-        //  "slug": "003",
-        //  "name": "Floodgate",
-        //  "status": "start"
-        //},
+         {
+          "slug": "003",
+          "name": "Floodgate",
+          "status": "start"
+        },
         //  {
         //  "slug": "004-B",
         //  "name": "Rallying Cry",
